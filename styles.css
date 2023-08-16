@@ -1,0 +1,38 @@
+.main {
+    margin-left: 20px ;
+
+}
+.start-text {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-left: 20px;
+    font-size: 200%;
+    
+}
+.my-pic {
+    width: 100px;
+    border: 2px solid gray;
+    border-radius: 100px;
+}
+/* The .top contains .start-text and .my-pic */
+.top {
+    display: flex;
+    margin-top: 26px;
+}
+
+.mcq {
+    font-size: larger;
+    font-weight: normal;
+    font-family: Arial, Helvetica, sans-serif;
+}
+/* The Command used below is for correct and worng html */
+.answer-main {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.btn {
+    background: rgba(241, 243, 244, 1);
+    color: black;
+    width: 130px;
+    height: 50px;
+    border: 1px solid gray;
+    border-radius: 100px;
+}
